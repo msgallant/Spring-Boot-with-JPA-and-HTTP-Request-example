@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>java</name>
-			<type>2</type>
-			<location>C:/Users/marci/git/Spring-Boot-with-JPA-and-HTTP-Request-example/demo/src/main/java</location>
-		</link>
-	</linkedResources>
 </projectDescription>
